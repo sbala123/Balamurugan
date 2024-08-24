@@ -15,7 +15,7 @@ Hi there! I'm **Bala**, a DevOps enthusiast currently diving into AWS, and beyon
 - **Cloud Platforms:** AWS, Azure
  
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/balamurugan-subramani-6740b319a)
+- [LinkedIn](https://www.linkedin.com/in/balamurugan-subramani-6740b319a/)
  
 ## 📫 How to Reach Me
 Feel free to contact me via email at [muruganbala6545@gmail.com](mailto:muruganbala6545@gmail.com).
